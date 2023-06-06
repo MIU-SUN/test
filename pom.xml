@@ -26,8 +26,6 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
-
-
     <dependencies>
         <!--spring context依赖：使用的是6.0.0-M2里程碑版-->
         <dependency>
@@ -54,5 +52,7 @@
             <version>2.19.0</version>
         </dependency>
     </dependencies>
+
+
 
 </project>
